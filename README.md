@@ -1,5 +1,5 @@
-# Nike-landing-page-clone.github.io
+## Nike-landing-page-clone.github.io - Marvis-dev
 
 here is a preview:
-https://nike-landing-page-clone.netlify.app/
+Live site url: [nikeclone-marvisdev.com](https://marvischief.github.io/Mikey.github.io/)
 
